@@ -20,8 +20,8 @@
   
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sxlva&show_icons=true&theme=transparent&rank_icon=github" alt="sxlva's stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxlva&layout=compact&theme=transparent" alt="Top Langs" />
+  <img src="https://github-readme-stats-six-re.vercel.app/api?username=sxlva&show_icons=true&theme=radical&rank_icon=github" alt="sxlva's stats" />
+  <img src="https://github-readme-stats-six-re.vercel.app/api/top-langs/?username=sxlva&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ### 📫 Connect with Me
