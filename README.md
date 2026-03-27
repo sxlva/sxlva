@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20~%20I'm%20sxlva&fontSize=70" />
+</p>
+
+<p align="center">
   <img src="https://count.getloli.com/get/@sxlva?theme=gelbooru" alt="Moe Counter" />
 </p>
 ## こんにちは、私は傅崇睿です。👋
