@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=b2c8df,e1e8eb&height=200&section=header&text=Hi%20~%20I'm%20sxlva&fontSize=70&fontColor=4a5e6a" />
-</p>
-
 ## こんにちは、私は傅崇睿です。👋
 
 > Software Engineering Student @ Dalian University of Foreign Languages (2027)
